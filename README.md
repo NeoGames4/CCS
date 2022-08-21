@@ -22,11 +22,14 @@ https://neogames4.github.io/docs/CCS/notation/index.html
 Java Docs (for the latest release) (How to use the Java library?):
 https://neogames4.github.io/docs/CCS/java/index.html
 
-## How To Use
+## How To Install The Java Library
 1. Go to [Releases](https://github.com/NeoGames4/CCS/releases).
 2. Download the latest .jar-file (and other documents, if you think you could need them).
-3. Import the .jar-file into your IDE. (See tutorials below.)
+3. Import the .jar-file into your IDE. (See tutorials at the bottom of the page.)
 4. Import the CCS Collection class and start coding.
+
+## Syntax Highlighting
+Every [release](https://github.com/NeoGames4/CCS/releases) should contain a .tmLanguage-file. Many modern editors allow you to import them.
 
 ## How To Import The Jar Into Your Project
 ### Eclipse
