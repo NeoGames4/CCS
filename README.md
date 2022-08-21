@@ -4,7 +4,7 @@
 ```python
 <
   name: "CCS", "Cool Collection System";
-  desc: "CCS (\"Cool Collection System\" is a system for data serialization and data interchange.)";
+  desc: "CCS (\"Cool Collection System\") is a system for data serialization and data interchange.)";
   author: <
     nickname: "NeoGames4";
     github: "https://github.com/NeoGames4/CCS";
