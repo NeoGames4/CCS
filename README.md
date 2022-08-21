@@ -1,5 +1,5 @@
 # CCS
-CCS ("Cool Collection System") is a system for data serialization and data interchange.
+[CCS](https://neogames4.github.io/ccs.html) ("Cool Collection System") is a system for data serialization and data interchange.
 
 ```python
 <
