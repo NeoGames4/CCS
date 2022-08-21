@@ -20,7 +20,7 @@ CCS Docs (What does CCS look like?):
 https://neogames4.github.io/docs/CCS/notation/index.html
 
 Java Docs (for the latest release) (How to use the Java library?):
-https://neogames4.github.io/docs/CCS/java/CCS/index.html
+https://neogames4.github.io/docs/CCS/java/index.html
 
 ## How To Use
 1. Go to [Releases](https://github.com/NeoGames4/CCS/releases).
